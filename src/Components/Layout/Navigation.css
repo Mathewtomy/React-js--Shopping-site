@@ -1,0 +1,21 @@
+
+.navigation-container{
+    display: inline;
+    float: left;
+    background-color: #56373775;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 4rem;
+    color: white;
+    text-align: center;
+    position: fixed;
+   
+}
+
+.navigation-container #logo {
+    margin: 1rem 3rem 2rem;
+    font-weight: 800;
+    font-size: larger;
+} 
